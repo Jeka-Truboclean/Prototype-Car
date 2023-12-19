@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Car">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAABAAAAAAAAAAEAAAAAAAABA=</HashCode>
+      <FileName>Source.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Body">
+    <Position X="3" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAgAAAAAABA=</HashCode>
+      <FileName>Source.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Engine">
+    <Position X="7.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACACAAAEBAAEQAAAAAAAAABA=</HashCode>
+      <FileName>Source.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Fuel">
+    <Position X="0.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACACAAAABAAEQAAAAAAAAABA=</HashCode>
+      <FileName>Source.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gears">
+    <Position X="5.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACACAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Source.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prototype">
+    <Position X="2.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Source.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OwnCar">
+    <Position X="2.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAARAAAAAAAAAAAAAMAAAAAQACAAIAIAAEAAQAAhA=</HashCode>
+      <FileName>Source.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="carPrototypes">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAACAAgAAAAAAAAAIAkAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Source.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
